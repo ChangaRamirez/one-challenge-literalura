@@ -30,8 +30,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ChangaRamirez/one-challenge-amigo-secreto">
-    <img src="https://github.com/ChangaRamirez/one-challenge-amigo-secreto/blob/main/assets/images/amigo-secreto-logo.JPG" alt="Logo" width="300" height="120">
+  <a href="https://github.com/ChangaRamirez/challenge-literalura">
+    <img src="https://github.com/ChangaRamirez/one-challenge-literalura/blob/main/assets/images/literalura-logo.png" alt="Logo" width="300" height="120">
   </a>
 
 <h3 align="center">Literalura</h3>
@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Acerca Del Proyecto
 
-<img src="assets/images/amigo-secreto.png" alt="Logo" width="500">
+<img src="https://github.com/ChangaRamirez/one-challenge-literalura/blob/main/assets/images/literalura-logo-transp.png" alt="Logo" width="500">
 
 <!--Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `ChangaRamirez`, `one-challenge-amigo-secreto`, `twitter_handle`, `linkedin_username`, `hotmail`, `laloraco`, `project_title`, `project_description`, `project_license`-->
 
@@ -95,7 +95,7 @@ Aquí, nada de buscar manualmente entre miles de títulos. Con esta aplicación 
 
 Ideal para proyectos de práctica, amantes del código organizado o simplemente para quienes quieren llevar un control digital de lo que descubren en el dominio público. Así que, ¿listo para sumergirte en el mundo de la literatura… con PostgreSQL y Java de tu lado? 🖥️📖
 
-![A Cool Gif]()
+![A Cool Gif](https://i.pinimg.com/originals/81/22/df/8122df968ad014a2cc8dcb9552bfdb02.gif)
 
 <p align="right">(<a href="#readme-top">regresar al inicio</a>)</p>
 
@@ -103,7 +103,9 @@ Ideal para proyectos de práctica, amantes del código organizado o simplemente 
 
 ### Creado con
 
-* [![JavaScript][JavaScript]][JavaScript-url]
+* [![Java][Java]][Java-url]
+* [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
+* [![SpringBoot][SpringBoot]][SpringBoot-url]
 <!--* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -131,11 +133,11 @@ Dicho eso, si solo quieres explorar el código, puedes revisar los archivos dire
 
 1. Clonar el repositorio
    ```sh
-   git clone https://github.com/ChangaRamirez/one-challenge-amigo-secreto.git
+   git clone https://github.com/ChangaRamirez/one-challenge-literalura.git
    ```
 5. Cambiar el git remote url para evitar pushes accidentales al proyecto base
    ```sh
-   git remote set-url origin ChangaRamirez/one-challenge-amigo-secreto
+   git remote set-url origin ChangaRamirez/one-challenge-literalura
    git remote -v # confirmar los cambios
    ```
 <p align="right">(<a href="#readme-top">regresar al inicio</a>)</p>
@@ -282,6 +284,12 @@ Link del Proyecto: [https://github.com/ChangaRamirez/one-challenge-amigo-secreto
 [product-screenshot]: images/screenshot.png
 [JavaScript]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square
 [JavaScript-url]: https://www.javascript.com/
+[Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[Java-url]: https://www.java.com/es/
+[PostgreSQL]: https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white
+[PostgreSQL-url]: https://www.postgresql.org/
+[SpringBoot]: https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white
+[SpringBoot-url]: https://spring.io/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
